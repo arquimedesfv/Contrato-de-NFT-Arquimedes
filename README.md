@@ -1,1 +1,1 @@
-Contrato de NFT de Arquimedes
+Contrato de NFT - Medizarki
